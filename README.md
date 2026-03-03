@@ -1,0 +1,2 @@
+# IDENTIFING-OF-FAKE-PROFILES-ACROSS-ONLINE-SOCIAL-NETWORKS-BY-USING-NEURAL-NETWORK
+All fake users main intention is to send friend request to normal users to hack their machine or to steal their data and never they will have many number of posts or have many following friends and their account age also will have less number of years. By analysing this features Facebook will mark whether user profile is fake or genuine. 
